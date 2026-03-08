@@ -10,6 +10,7 @@
   - [Indra](#indra)
   - [Siemens](#siemens)
   - [Accenture](#accenture)
+- [Voluntariado](#voluntariado)
 - [Filosofia e Estilo de Vida](#filosofia-e-estilo-de-vida)
 - [Propósito](#propósito)
 - [Curiosidades](#curiosidades)
@@ -95,6 +96,14 @@ Iniciei meu trabalho na Accenture como Consultor/Especialista em Desenvolvimento
 Pelo meu perfil curioso, ideador e inovador, após cerca de 2 anos recebi uma proposta para criar e coordenar uma área de inovação em outra empresa. Fiquei extremamente interessado na proposta, pois sonhava em trabalhar em um time de inovação, mas gostava muito da minha área e liderança também. Optei por ter diversas conversas com minha liderança sobre a proposta que recebi e meu diretor na época acabou me perguntando o que seria necessário que ele fizesse para que eu continuasse na Accenture, que respondi dizendo que gostaria de migrar para o Liquid Studio, a então área de inovação da Accenture. Mesmo significando uma mudança de área, meu diretor aceitou meu pedido e prometeu que faria a migração assim que possível. Após aproximadamente 6 meses, um projeto de inovação apareceu e migrei de área, ao mesmo tempo em que fui promovido para consultor sênior, cargo equivalente à coordenador.
 
 Comecei em minha nova função no time de inovação e, no primeiro dia, em um workshop de ideação para uma solução inovadora para a Unilever, me apaixonei pelo meu trabalho. Pela primeira vez na minha vida, acreditei ser possível amar o trabalho, e passei a liderar tecnicamente times de desenvolvimento de demonstrações, provas de conceitos e produtos mínimos viáveis, provando o valor de tecnologias emergentes. Desde então, sigo atuando nessa função, atualmente coordenando uma equipe de 7 desenvolvedores que implementam soluções fullstack utilizando principalmente inteligência artificial, onde já tivemos a oportunidade de fazer entregas para as maiores empresas do Brasil e do mundo nos mais diferentes segmentos de negócio.
+
+# Voluntariado
+
+Ao longo da minha trajetória profissional tive a oportunidade de realizar trabalhos voluntários que foram importantes para meu desenvolvimento. O primeiro deles foi quando eu era estagiário da GM, que tive a oportunidade de participar da iniciativa Engenheiros do Futuro, que promovia apresentações e discussões em escolas de ensino médio para mostrar aos alunos o trabalho de um engenheiro no desenvolvimento de veículos e destacar a importância do conhecimento adquirido ao longo do ensino médio e faculdade. O objetivo era incentivar os alunos a se dedicarem aos estudos, mostrando que as matérias da escola, como matemática e física, que quando somos adolescentes não compreendemos bem a importância, são utilizadas ao longo da vida, particularmente profissional, não só para criar produtos úteis mas também seguros, como no caso do desenvolvimento de cintos de segurança, carroceria com alta absorção de impactos e airbags.
+
+A segunda oportunidade foi quando eu era analista na Siemens, que fui líder de um workshop de engenharia chamado Social@Finance, um evento promovido pela empresa em escolas públicas com o objetivo de introduzir conceitos e disciplinas acadêmicas para crianças de 7 a 10 anos de idade de forma lúdica, similarmente ao trabalho voluntário anterior, com o objetivo de despertar o interesse das crianças na importância de estudar, e como as matérias da escola eram se relacionavam com situações do mundo real.
+
+Por fim, participei algumas vezes de um trabalho voluntário chamado LabTIc, organizado por uma amiga gerente sênior da Accenture, que tem o objetivo de ensinar tecnologia para crianças de comunidades vulnerabilizadas. Nesse projeto, dei algumas aulas sobre hardware de computadores e programação em Python e, atualmente, auxilio anualmente na configuração dos computadores doados para o projeto, realizando formatação dos sistemas e instalação das ferramentas necessárias para a condução das aulas.
 
 # Filosofia e Estilo de Vida
 
