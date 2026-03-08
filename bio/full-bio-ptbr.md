@@ -1,7 +1,9 @@
+<!-- omit from toc -->
+# Sumário
 - [Introdução](#introdução)
 - [Infância](#infância)
 - [Adolescência](#adolescência)
-- [Faculdade](#faculdade)
+- [Graduação](#graduação)
 - [Profissional](#profissional)
   - [Itaú Unibanco](#itaú-unibanco)
   - [General Motors](#general-motors)
@@ -14,6 +16,11 @@
 
 # Introdução
 
+Olá, sou o Fabio Bergamini Leonardo, engenheiro de controle e automação formado pelo Instituto Mauá de Tecnologia, com mais de 10 anos de experiência profissional em tecnologia, passando por empresas como Itaú Unibanco, General Motors, Siemens e Accenture, onde atuo hoje como consultor sênior liderando um time de inovação com inteligência artificial.
+
+Sou movido pela curiosidade — a mesma que me fez desmontar brinquedos na infância e criar meu primeiro servidor de MMORPG aos 10 anos — e pela vontade de construir coisas que importam. Ao longo da minha trajetória, transitei entre o mundo físico e o digital: programei robôs que competiram internacionalmente no Japão, automatizei processos das mais diferentes indústrias e hoje desenvolvo demonstrações, provas de conceito e produtos mínimos viáveis com tecnologias emergentes para algumas das maiores empresas do Brasil e do mundo.
+
+Mas além do profissional, sou também alguém que questiona o propósito do que faz. Nos últimos anos, redefini minha visão de sucesso: perdi 30kg, comecei terapia, adotei um estilo de vida nômade — passando metade do tempo viajando e acampando — e passei a valorizar saúde, natureza e autoconhecimento tanto quanto resultados e entregas. Essa biografia é mais do que um currículo; é um convite para que pessoas que pensam como eu possam me encontrar, e juntos construirmos algo que acreditamos.
 
 # Infância
 
@@ -29,7 +36,7 @@ Com 15 anos sai da escola que estudava e comecei meu ensino médio na Escola Té
 
 Além desse desenvolvimento pessoal social, no segundo ano fiz novamente um vestibulinho para começar o curso técnico, passando a estudar integralmente, fazendo ensino médio no período da manhã e técnico em mecatrônica no da tarde. No técnico, reforcei ainda mais meus conhecimentos de programação, além de aprender como conectá-los com o mundo real, utilizando conhecimentos de mecânica, elétrica e eletrônica, para interagir com sensores e atuadores. Sem saber ao certo na época, já me dediquei a uma causa socioambiental no trabalho de conclusão de curso do técnico, desenvolvendo um sistema de irrigação automatizado, que media a umidade do solo para determinar quando uma plantação deveria ser irrigada.
 
-# Faculdade
+# Graduação
 
 Sendo meu pai funcionário do Instituto Mauá de Tecnologia (IMT), frequentemente considerada uma das melhores instituições privadas do Brasil nos cursos de engenharia, minha aptidão nas áreas de exatas e meu interesse no curso técnico de mecatrônica, a decisão de estudar engenharia no IMT foi fácil. No primeiro ano escolhi 3 engenharias para fazer o curso de Introdução à Engenharia, onde fiz projetos de Engenharia Elétrica, Engenharia de Computação e Engenharia de Controle e Automação para decidir qual delas cursaria. No início, estava certo de que minha escolha seria pela Engenharia de Computação, pelo histórico e motivos aqui compartilhados, mas para minha surpresa optei por cursar Engenharia de Controle e Automação, pois durante os projetos percebi que eu não queria programar softwares que interagissem apenas no mundo virtual, mas sim soluções que interagissem também com o mundo físico.
 
