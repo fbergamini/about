@@ -1,6 +1,21 @@
-# Sobre Fabio Bergamini Leonardo
+- [Introdução](#introdução)
+- [Infância](#infância)
+- [Adolescência](#adolescência)
+- [Faculdade](#faculdade)
+- [Profissional](#profissional)
+  - [Itaú Unibanco](#itaú-unibanco)
+  - [General Motors](#general-motors)
+  - [Indra](#indra)
+  - [Siemens](#siemens)
+  - [Accenture](#accenture)
+- [Filosofia e Estilo de Vida](#filosofia-e-estilo-de-vida)
+- [Propósito](#propósito)
+- [Curiosidades](#curiosidades)
 
-## Infância
+# Introdução
+
+
+# Infância
 
 Desde que me lembro fui uma pessoa curiosa, daquelas crianças que vivem desmontando seus brinquedos para entender como funcionam, e que constantemente fazia sobrar peças ao montá-los de novo, nunca entendendo por que as fabricantes sempre colocavam peças a mais no que montavam!
 
@@ -8,13 +23,13 @@ Minha relação com computadores começou cedo, pois meus pais tinham computador
 
 Em algum momento, aproximadamente quando eu tinha 10 anos, comecei a jogar Tibia, um famoso MMORPG em 2D da época. Nas minhas jogatinas, descobri que existiam os servidores paralelos do jogo, conhecido como OTServer (Open Tibia Server), que utilizavam a engine do jogo principal permitindo criar diferentes mapas, magias, monstros, quests, sites, enfim, dinâmicas diferentes do mesmo jogo. Depois de jogar em alguns servidores de terceiros, me interessei em criar meu próprio, e assim começou a minha jornada no mundo da programação. Posso dizer que a primeira linguagem de programação que aprendi foi LUA, junto com conhecimentos de SQLite, MySQL, XML, HTML, PHP, máquinas virtuais e redes, para abrir as portas necessárias que permitissem que as pessoas acessassem meu servidor, chegando a atingir cerca de 150 jogadores em um período, um marco muito relevante para mim na época. Desde então, meu interesse e utilização de linguagens de programação só cresceu.
 
-## Adolescência
+# Adolescência
 
 Com 15 anos sai da escola que estudava e comecei meu ensino médio na Escola Técnica Estadual (ETE) Lauro Gomes, um período muito importante para meu desenvolvimento pessoal e intelectual. Vindo de uma escola particular, foi muito importante para mim conhecer o mundo da escola pública, onde tive contato com amigos e amigas em situações financeiras bem diferentes da minha, e pude começar a compreender a desigualdade social, os privilégios e os preconceitos tão presentes na sociedade. Me tornei uma pessoa melhor, entendendo que existiam dificuldades e problemas muito maiores, para muitas pessoas, que iam muito além de poder comprar ou não uma roupa de marca, um celular da moda ou mesmo fazer uma viagem de avião com a família. E isso levando em consideração que a ETE é uma escola pública de alto padrão, pois é necessário fazer uma espécie de vestibular (chamado de vestibulinho) para entrar.
 
 Além desse desenvolvimento pessoal social, no segundo ano fiz novamente um vestibulinho para começar o curso técnico, passando a estudar integralmente, fazendo ensino médio no período da manhã e técnico em mecatrônica no da tarde. No técnico, reforcei ainda mais meus conhecimentos de programação, além de aprender como conectá-los com o mundo real, utilizando conhecimentos de mecânica, elétrica e eletrônica, para interagir com sensores e atuadores. Sem saber ao certo na época, já me dediquei a uma causa socioambiental no trabalho de conclusão de curso do técnico, desenvolvendo um sistema de irrigação automatizado, que media a umidade do solo para determinar quando uma plantação deveria ser irrigada.
 
-## Faculdade
+# Faculdade
 
 Sendo meu pai funcionário do Instituto Mauá de Tecnologia (IMT), frequentemente considerada uma das melhores instituições privadas do Brasil nos cursos de engenharia, minha aptidão nas áreas de exatas e meu interesse no curso técnico de mecatrônica, a decisão de estudar engenharia no IMT foi fácil. No primeiro ano escolhi 3 engenharias para fazer o curso de Introdução à Engenharia, onde fiz projetos de Engenharia Elétrica, Engenharia de Computação e Engenharia de Controle e Automação para decidir qual delas cursaria. No início, estava certo de que minha escolha seria pela Engenharia de Computação, pelo histórico e motivos aqui compartilhados, mas para minha surpresa optei por cursar Engenharia de Controle e Automação, pois durante os projetos percebi que eu não queria programar softwares que interagissem apenas no mundo virtual, mas sim soluções que interagissem também com o mundo físico.
 
@@ -32,9 +47,9 @@ Também tenho muito orgulho do meu trabalho de conclusão de curso, onde desenvo
 
 Essa trajetória da minha graduação me levou a um grande interesse em seguir uma carreira acadêmica, tendo inclusive participado de um projeto acadêmico no IMT de implementação de aplicações móvel e desktop em Python de uma solução de Indústria 4.0 para a Feira Internacional de Máquinas e Equipamentos (FEIMEC). Porém, dadas as oportunidades profissionais na mesma época, acabei optando por seguir uma carreira corporativa.
 
-## Profissional
+# Profissional
 
-### Itaú Unibanco
+## Itaú Unibanco
 
 Durante o quarto ano da faculdade iniciei minha trajetória profissional, como estagiário no Itaú Unibanco, maior banco do Brasil, na área de logística de tangíveis. Inicialmente, minhas atividades eram bastante manuais e repetitivas, extraindo informações de diferentes portais e bancos de dados para consolidar relatórios. Porém, dado meu conhecimento em programação e interesse em automação, logo comecei a automatizar minhas tarefas utilizando o Microsot Access, Excel e VBA, conseguindo automatizar todo o meu trabalho em cerca de 2 meses. Em seguida, comecei a entender as atividades dos analistas da área, e passei a automatizar as tarefas da área como um todo.
 
@@ -42,7 +57,7 @@ Essa experiência foi muito interessante pois o sistema operacional dos computad
 
 Após aproximadamente 3 meses nesse estágio, recebi uma proposta para ser estagiário da área de Engenharia de Produtos na General Motors, uma das principais fabricantes de veículos no mundo. Por mais que eu estivesse desempenhando bem no meu estágio, com bons benefícios e boa perspectiva de crescimento, fiquei muito interessado em ter uma experiência profissional na área de engenharia, e optei por aceitar a proposta, mesmo que isso significasse receber apenas um terço dos benefícios do meu estágio no banco.
 
-### General Motors
+## General Motors
 
 O estágio na GM iniciou-se com uma rotação entre diferentes segmentos da área de engenharia de produto durante 2 meses, com o objetivo de entender o escopo total da área. Nesses 2 meses, passei por segmentos desde a concepção, design e pesquisa de mercado até o desenvolvimento e testes em campo de novos veículos. Após esse período, nós escolhíamos 2 segmentos para fazer projetos com duração de aproximadamente 5 meses cada, totalizando 12 meses de estágio. Optei por realizar projetos nos segmentos de Módulos Eletrônicos da Carroceria (Electronic Body Modules - EBM) e Acessórios (Accessories).
 
@@ -50,13 +65,13 @@ Meu projeto em EBM foi uma forma de realizar testes de sensores de pressão dos 
 
 Após esse projeto, iniciei um novo no segmento de Acessórios, que acabei não concluindo, por receber uma proposta de trainee na Indra, uma multinacional de consultoria e tecnologia líder na Espanha e América Latina. Apesar de estar gostando do meu estágio na GM, uma decisão global reduziu drasticamente o time de engenharia no Brasil, e a perspectiva de efetivação e progressão de carreira estavam extremamente negativas, tendo sido incentivado pela minha própria liderança à aceitar a proposta de trainee.
 
-### Indra
+## Indra
 
 Iniciei na Indra realizando cursos sobre DevOps, onde aprendi muito sobre conceitos de conteinerização (Docker e Kubernetes) e automação de build e deploy (Jenkins). Após essa fase inicial de cursos e aprendizados, comecei a desenvolver aplicações em Java para realizar o monitoramento de sistemas de clientes como a Telefônica, uma das maiores companhias de telecomunicações fixas e móveis do mundo. Nesses desenvolvimentos, adquiri experiência em automações de sistemas, particularmente SAP e Web, para realizar o monitoramento automático e geração de relatórios de performance.
 
 Após cerca de 6 meses recebi uma proposta para ser analista júnior de Robotics Process Automation (RPA) na Siemens, o maior conglomerado industrial da Europa e um dos maiores do mundo. Por ser uma progressão na carreira, uma área de atuação mais interessante e uma vaga mais acessível, pois possuía 2 dias de trabalho remoto na semana e era extremamente oneroso me deslocar até a Indra para trabalhar todos os dias, aceitei a oferta.
 
-### Siemens
+## Siemens
 
 Comecei na Siemens como desenvolvedor RPA júnior, realizando automações em diferentes sistemas, novamente principalmente SAP e Web, utilizando o software de automação Blue Prism, uma plataforma de desenvolvimento low code que permite criar automações utilizando fluxogramas e inspeção de componentes dos softwares sendo automatizados. Apesar da proposta de ser uma plataforma low code, muitas automações necessitavam de um bloco de fluxograma chamado Code Stage, que permitia inserir códigos em Visual Basic no meio do fluxograma para fazer automações mais complexas. Logo comecei a expandir o uso dos Code Stages e comecei a automatizar nosso processo de automação, criando componentes padronizados que facilitavam a implementação, revisão de código e aderência às boas práticas e regras de desenvolvimento definidas pela nossa área.
 
@@ -66,7 +81,7 @@ Novamente, devido ao meu bom desempenho, fui designado o papel de Arquiteto de S
 
 Após aproximadamente 3 anos trabalhando na Siemens, recebi a proposta para ser consultor na Accenture, a maior empresa de consultoria do mundo. Apesar de gostar muito do meu time e liderança, eu sentia que minhas atividades na Siemens não estavam condizentes com o meu cargo, e na época não havia perspectiva que essa situação mudaria. Como a mudança para a Accenture significava um salto de 2 níveis de carreira, de analista pleno para consultor, e como eu estava interessado em ter uma nova experiência em consultoria, participando de diferentes projetos e indústrias, optei por aceitar a proposta e realizar a mudança. Além disso, a vaga na Accenture era 100% remota, uma outra grande vantagem já que eu utilizava aproximadamente 3 horas por dia para me deslocar até a Siemens nos 3 dias que ia presencial.
 
-### Accenture
+## Accenture
 
 Iniciei meu trabalho na Accenture como Consultor/Especialista em Desenvolvimento de Aplicações e Arquiteto de Soluções, liderando tecnicamente, suportando o desenvolvimento, operação e manutenção de squads, além de arquitetar e desenvolver soluções de automação inteligente principalmente para clientes de telecomunicações e finanças, utilizando uma grande variedade de linguagens de programação (Java, Javascript, Node.js, .Net, C#) e plataformas (Docker, Sharepoint, Power Platform, Node-RED, Blue Prism, Automation Anywhere). Tive um ótimo desempenho nessa área, ficando inclusive em primeiro lugar em um projeto de gamificação interna, que premiava as pessoas que mais colaborassem internamente com o time, por exemplo trazendo inovações e documentando soluções reutilizáveis.
 
@@ -74,7 +89,7 @@ Pelo meu perfil curioso, ideador e inovador, após cerca de 2 anos recebi uma pr
 
 Comecei em minha nova função no time de inovação e, no primeiro dia, em um workshop de ideação para uma solução inovadora para a Unilever, me apaixonei pelo meu trabalho. Pela primeira vez na minha vida, acreditei ser possível amar o trabalho, e passei a liderar tecnicamente times de desenvolvimento de demonstrações, provas de conceitos e produtos mínimos viáveis, provando o valor de tecnologias emergentes. Desde então, sigo atuando nessa função, atualmente coordenando uma equipe de 7 desenvolvedores que implementam soluções fullstack utilizando principalmente inteligência artificial, onde já tivemos a oportunidade de fazer entregas para as maiores empresas do Brasil e do mundo nos mais diferentes segmentos de negócio.
 
-## Filosofia e Estilo de Vida
+# Filosofia e Estilo de Vida
 
 Acredito que minha filosofia e estilo de vida atual remetem à 5 principais acontecimentos (salário, terapia, natureza, atividade física e viagens) que mudaram minha percepção sobre sucesso, qualidade de vida, espiritualidade, autoconhecimento e bem-estar.
 
@@ -90,7 +105,15 @@ Por fim, o último acontecimento também foi em 2022, no mesmo mês que o quarto
 
 Todos esses acontecimentos e percepções me levaram a entender o que me faria feliz e realizado, que seria estar mais em movimento, em meio à natureza, vivendo novas experiências, conhecendo novas culturas e mantendo o corpo ativo, sem abrir mão da minha dedicação profissional, que também traz um senso de realização. Explorei algumas formas de ter esse estilo de vida, como vivendo em Airbnbs ou Hostels, até entender que o meu maior desejo seria viver num motorhome. Apesar da minha percepção de que ganhar mais dinheiro não está diretamente associado à viver mais feliz, ainda assim vivemos em uma sociedade capitalista e, para comprar um motorhome, era necessário um dinheiro que eu não possuía. A alternativa então foi o que muitos consideram um perrengue, falta de conforto, mas que eu considero incrível: acampar. Em 2023 estabeleci que meu objetivo seria me preparar para viver acampando, com o conforto necessário para ficar longos períodos sem ser cansativo e que me não trouxesse absolutamente nenhum prejuízo à qualidade do meu trabalho que, como falei anteriormente, eu era apaixonado e portanto muito importante para mim. Ao final de 2023 eu havia comprado tudo que precisava e, no início de 2024, iniciei minha mudança de estilo de vida. Atualmente passo cerca de metade do meu tempo viajando e acampando, e a outra metade na metrópole, porém meu objetivo é aumentar progressivamente o tempo que passo viajando ou, pelo menos, longe da metrópole, vivendo em cidades menores, de interior ou litorâneas. Um dia ainda terei meu motorhome, mas enquanto esse dia não chega, estou aproveitando enormemente o estilo de vida que tenho.
 
-## Curiosidades
+# Propósito
+
+Possuindo um emprego que gosto dos desafios técnicos, das pessoas, da liderança, dos benefícios e do estilo de vida remoto que me proporciona, passei a questionar o propósito do que eu faço, à que estou dedicado meu tempo, energia e capacidade. Em algum momento da minha infância me lembro de ser incentivado a pensar qual era o meu sonho. Lembro-me de ficar algum tempo pensando sobre isso e chegar à conclusão que meu sonho era gerar um impacto positivo na sociedade, gostaria de ser lembrado por ter feito algo de bom para muitas pessoas. Depois de alguns meses de terapia, entendi que é importante buscar essa realização não na quantidade de pessoas que estou afetando em uma grande escala, global por exemplo, mas sim nas pessoas que são próximas à mim e que, de fato, tenho algum impacto sobre. Essa percepção mudou bastante minha relação com as pessoas próximas, minha família, amigos, colegas e conhecidos, e fez com que eu me tornasse mais atencioso e dedicado à elas. Não diminuo a importância dessa percepção e ato de forma alguma, mas ainda assim continuo sentindo que consigo aplicar meus conhecimentos de forma benéfica mais ampla.
+
+Apesar de todos os pontos positivos do meu emprego, percebi que estou fazendo parte e contribuindo para o sistema capitalista, desenvolvendo projetos e soluções que ajudam empresas e pessoas ricas e ficarem mais ricas, melhorando métricas de produtividade, desempenho e receita, e isso começou a me incomodar. Já refleti muito sobre se devo buscar esse propósito no meu trabalho, ou se devo buscá-lo em atividades fora dele, e entender que meu trabalho deve ser apenas minha fonte de renda, que me permite ter minha qualidade e estilo de vida, que é necessário ser dessa forma no mundo e sistema que vivemos. Mas se dormimos 8 horas, o trabalho ocupa metade do nosso tempo acordado, isso não é muito tempo da minha vida dedicado à algo que não acredito na razão de estar sendo feito? Com tantos problemas no mundo para serem estudados e resolvidos, como a fome, crise climática, saneamento básico, educação, enfim, poderia citar aqui tantos objetivos de desenvolvimento sustentável da ONU, não quero passar minha vida dedicando todo meu potencial criativo e produtivo a fortalecer um sistema que beneficia alguns e explora muitos.
+
+Tenho então, nos últimos tempos, refletido sobre o que quero fazer, com o que quero trabalhar e, principalmente, como consigo unir o estilo de vida que possuo e que me faz bem com um propósito que eu sinta que estou fazendo o bem para a sociedade e o meio-ambiente. Não cheguei ainda à uma conclusão sobre isso, talvez seja trabalhando com a ética da inteligência artificial, talvez seja pensando em soluções inteligentes para agroflorestamento ou monitoramento de catástrofes ambientais, talvez seja trabalhando para uma GovTech que melhora o acesso de cidadãos à serviços e benefícios públicos, talvez seja qualquer outra possibilidade que ainda vá se apresentar para mim, o fato é que tenho que estar atento e buscando ativamente o que me interessa, para sentir que estou conseguindo ter propósito no meu trabalho. Toda essa biografia, esses mais de 30 mil caracteres descrevendo minha trajetória são o primeiro passo para que pessoas que pensam como eu possam me encontrar, para que eu possa me unir à elas na construção de algo que acreditamos, de algo que nos leve a um futuro melhor para todos, não para poucos.
+
+# Curiosidades
 
  - Globo do Maranhão
  - Jornal Estadão
