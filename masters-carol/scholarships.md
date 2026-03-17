@@ -1,11 +1,11 @@
 # Scholarship Programs to Research
 
-Run the `/masters` skill once for each scholarship below. Mark as done after researching. Add new scholarships discovered during research to this list.
+Run the `/masters-carol` skill once for each scholarship below. Mark as done after researching. Add new scholarships discovered during research to this list.
 
 ## Government/Foundation Scholarships
 
-- [X] Erasmus Mundus Joint Master Degrees
-- [ ] Swedish Institute Scholarships for Global Professionals (SISGP)
+- [x] Swedish Institute Scholarships for Global Professionals (SISGP)
+- [ ] Erasmus Mundus Joint Master Degrees
 - [ ] DAAD (Germany) — specifically EPOS and Helmut Schmidt Programme
 - [ ] Chevening Scholarships (UK)
 - [ ] Swiss Government Excellence Scholarships
@@ -20,20 +20,12 @@ Run the `/masters` skill once for each scholarship below. Mark as done after res
 - [ ] Weidenfeld-Hoffmann Scholarship (Oxford, UK)
 - [ ] LSE AKO Masters Scholarship — explicitly for Latin Americans
 
-## University-Specific Scholarships (QS Top 100)
+## University-Specific Scholarships
 
-- [ ] ETH Zurich — Excellence Scholarship & Opportunity Programme (ESOP)
-- [ ] EPFL (Switzerland) — Excellence Fellowships
-- [ ] TU Delft — Justus & Louise van Effen Excellence Scholarships
-- [ ] Technical University of Munich (TUM) — tuition waiver + DAAD combo
 - [ ] University of Edinburgh — Edinburgh Global Research Scholarship
 - [ ] University of Amsterdam — Amsterdam Merit Scholarship (AMS)
 - [ ] KU Leuven — Inspiring the Outstanding Scholarship
-- [ ] KTH Royal Institute of Technology — KTH Scholarship
-- [ ] Politecnico di Milano — Platinum/Gold merit scholarships
-- [ ] Politecnico di Milano — AI for Public Services (AI4Gov) Master specific funding
 - [ ] Sciences Po Paris — Émile Boutmy Scholarship
-- [ ] PSL University — institutional scholarships
 - [ ] Université Paris-Saclay — International Master's Scholarship
 - [ ] University of Birmingham — Postgraduate High Fliers / Birmingham Masters Scholarship
 - [ ] University of Glasgow — World Changers Glasgow Scholarships
@@ -44,11 +36,11 @@ Run the `/masters` skill once for each scholarship below. Mark as done after res
 - [ ] Leiden University — Leiden University Excellence Scholarship (LExS)
 - [ ] Holland Scholarship + specific university scholarships (Netherlands)
 - [ ] Erasmus+ Scholarships (single-university EU-funded master's programmes)
-
-## QS Top 100 Research Complete
-
-Detailed research files:
-- `programs/qs-top-1-25-europe.md` — Imperial, Oxford, Cambridge, ETH, UCL, EPFL, TUM
-- `programs/qs-top-26-50-europe.md` — PSL, KCL, Edinburgh, Manchester, IP Paris, TU Delft
-- `programs/qs-top-51-75-europe.md` — Bristol, Amsterdam, LSE, LMU, KU Leuven, Paris-Saclay, Lund, Sorbonne, Warwick, Trinity Dublin
-- `programs/qs-top-76-100-europe.md` — Birmingham, KTH, Glasgow, Heidelberg, Leeds, Southampton, FU Berlin, Sheffield, Uppsala, Durham, Nottingham, KIT, PoliMi, UZH
+- [ ] University of Exeter — Global Excellence Scholarship (strong ecopsychology research)
+- [ ] University of Essex — scholarships (human rights / social change focus)
+- [ ] University of Bath — Global Leaders Scholarship
+- [ ] Lund University — Lund University Global Scholarship
+- [ ] University of Gothenburg — scholarships (strong environmental psychology)
+- [ ] University of Surrey — scholarships (environmental psychology group)
+- [ ] Norwegian University of Life Sciences (NMBU) — Norway tuition-free + scholarships
+- [ ] University of Oslo — Norway tuition-free + quota scheme scholarships
