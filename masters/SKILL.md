@@ -61,9 +61,22 @@ When invoked, research the specified scholarship program by searching the web fo
 - Number of scholarships awarded annually
 - Any restrictions (age, field of study, university list, etc.)
 
-### Step 2: Find Matching Programs
+### Step 2: Find ALL Matching Programs
 
-Within the scholarship's eligible universities/programs, search for master's programs that match Fabio's interests (see "Program Topics" above). For each program found, research:
+#### University Scope
+
+Only research programs at universities that are **among the top 5 in their country** according to the latest QS World University Rankings. There is no global ranking cutoff — a university ranked #500 globally is fine as long as it is top 5 within its country. If the scholarship restricts eligible universities to a specific list, apply the top-5-per-country filter on top of that list.
+
+#### Search Approach
+
+**IMPORTANT: Be exhaustive, not selective.** Do not cherry-pick a handful of "top" programs. List **every** master's program within the eligible universities (per the scope above) that matches Fabio's interests (addresses at least 2 topics from the list above). Cast a wide net — search for programs across multiple keywords and angles:
+
+- Search by each topic keyword individually (e.g., "AI ethics", "AI governance", "AI policy", "responsible AI", "digital society", "technology and society", "social impact", "GovTech", "public sector innovation", "human-centered AI", "digital rights", "sustainability and technology", "science and technology studies", etc.)
+- Check each eligible university's full master's programme catalogue — do not rely only on search engines
+- Include programs from adjacent fields that have significant overlap (e.g., Science and Technology Studies, Digital Humanities, Innovation and Public Policy, Internet Governance)
+- When in doubt, include the program — Fabio can decide later what to discard
+
+For each program found, research:
 - Country, university ranking (QS/THE if available), duration, language, format (in-person/hybrid)
 - Program URL
 - Why it matches — which topics from the list it covers
@@ -71,10 +84,10 @@ Within the scholarship's eligible universities/programs, search for master's pro
 - Notable faculty/research groups (if findable)
 - Alumni/career outcomes (if available)
 
-### Step 3: Rank and Recommend
+### Step 3: Rank ALL Programs by Alignment
 
-After listing all matching programs, provide a ranked recommendation considering:
-1. **Alignment with interests** — How well does the program match the topics listed above?
+After listing **all** matching programs, rank them by alignment with Fabio's interests. Include every program found — do not drop lower-ranked ones. Ranking criteria:
+1. **Alignment with interests** — How well does the program match the topics listed above? Prioritize programs that bridge AI/technology with social impact, ethics, and policy
 2. **University reputation** — Global ranking and reputation in the specific field
 3. **Scholarship fit** — How competitive is Fabio's profile for this specific scholarship + program combo?
 4. **Practical factors** — Cost of living in the city, language, community for Brazilians
